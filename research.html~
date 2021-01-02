@@ -52,9 +52,9 @@ img.portrait{
 <div id="topbar">
 <a href="index.html">Home</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="research.html">Research</a>
+<a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22jamison+barsotti%22&btnG=&oq=jamison+barsotti">Research</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="links.html">Links</a>
+<a href="index.html">Links</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
@@ -75,11 +75,8 @@ img.portrait{
 
 <div style="padding: 15px;">
 <hr>
-<h4>Social Media</h4>
-<p><a target="" href="https://www.instagram.com/jamisonbarsotti/"> Instagram </a></p>
-<p><a target="" href="https://twitter.com/DrRobotsotti"> Twitter </a></p>
-<p><a target="" href="https://github.com/JamisonBlair"> GitHub </a></p>
-<p><a target="" href="https://bandcamp.com/jamison"> Bandcamp </a></p>
+<h4>Representation Theory</h4>
+<p> </p>
 <hr>
 
 <h4>Current Project</h4>
